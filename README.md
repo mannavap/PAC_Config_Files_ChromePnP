@@ -1,2 +1,3 @@
 # PAC_Config_Files_ChromePnP
-Repository to store config files 
+It is mainly used to store all the config files for different DUT.
+
